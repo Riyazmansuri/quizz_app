@@ -1,6 +1,6 @@
 # quizz_app
 
-A new Flutter application.
+I've built this application while doing flutter bootcamp course by Dr. Angela Yu.
 
 ## Getting Started
 
